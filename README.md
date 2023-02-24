@@ -14,7 +14,7 @@ You can install these libraries using pip, as follows:
 ### Usage
 To use the notebook, simply open it in Jupyter Notebook and run the code. Or you can open it in Colab too!
 
-<a href="https://colab.research.google.com/github/swargarajbhowmik/youtube-video-playlist-downloader-colab/blob/main/YouTube_Video_Playlist_Downloader.ipynb">![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-%23FFA500.svg?style=for-the-badge&logo=Jupyter&logoColor=white)</a>
+<a href="https://colab.research.google.com/github/swargarajbhowmik/youtube-video-playlist-downloader-colab/blob/main/YouTube_Video_Playlist_Downloader.ipynb">![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-%23d69c15.svg?style=for-the-badge&logo=Jupyter&logoColor=white)</a>
 
 Once the code is executed, the videos will be downloaded to the current working directory.
 
